@@ -1,10 +1,10 @@
 
-# 🌧️ Rain Prediction EDA
+# 🌧️ Rain Prediction EDA 
 
 ## 📌 Project Overview
 This project focuses on **Exploratory Data Analysis (EDA)** for predicting rainfall based on historical weather data. The goal is to uncover patterns, correlations, and insights that can help in building a predictive model for rain occurrence.
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used :- 
 - **Python** 🐍
 - **Pandas** 📊
 - **NumPy** 🔢
